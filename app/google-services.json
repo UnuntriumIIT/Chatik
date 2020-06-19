@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980188362382",
+    "firebase_url": "https://chatik-53ab6.firebaseio.com",
+    "project_id": "chatik-53ab6",
+    "storage_bucket": "chatik-53ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980188362382:android:635edbbf5124413b8b7bdf",
+        "android_client_info": {
+          "package_name": "com.example.ununtrium.chatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980188362382-9rlpfjcfau6otv2ttos5tn0n41o7v6vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpEN-_cYALki5HKBWhnyOkPUy3sAZyJf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980188362382-9rlpfjcfau6otv2ttos5tn0n41o7v6vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
